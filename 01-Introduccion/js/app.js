@@ -53,7 +53,7 @@ console.log(hola);
 console.log([1, 2, 3, 4]);
 
 // De la misma forma se pueden crear objetos
-let obj = { nombre: "juan", profesion: "Desarrollador Web" }
+let obj = { nombre: "jenny", profesion: "Desarrollador Web" }
 console.log( obj );
 
 // También se pueden imprimir resultados como tabla
