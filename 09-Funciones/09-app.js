@@ -1,4 +1,4 @@
-// En este video veremos lo que son los métodos de propiedad, es decir son funciones con una sintaxis similar a las de un método..
+//Ahora veremos lo que son los métodos de propiedad, es decir son funciones con una sintaxis similar a las de un método..
 
 // también llegan a ser muy comunes sobretodo porque es un objeto grande con todas las funciones...
 
